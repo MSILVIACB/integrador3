@@ -4,8 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
-        crossorigin="anonymous">
+        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"crossorigin="anonymous">
         <link rel= "stylesheet" href="/css/styles.css">
         <script src="/js/scripts.js"></script>
     </head>
@@ -32,16 +31,13 @@
             </div>
             <ul class="nav justify-content-end " >
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#">Active</a>
+                  <a class="nav-link active" aria-current="page" href="#">Planos</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="#">Cadastro</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                  <a class="nav-link" href="#">Contato</a>
                 </li>
               </ul>
            </div>
@@ -67,7 +63,9 @@
                     </div>
                   </div>
                 <br>
+                <div class="container">
               <h1>Escolha aqui a Modalidade que mais gostar</h1>
+                </div>
                     <div class="container">
                             <div class="row justify-content-center">
                               <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">

@@ -3,7 +3,6 @@
 use Illuminate\Support\Facades\Route;
 
 
-
 Route::get('/', function () {
     return view('home');
 });
@@ -18,6 +17,10 @@ Route::get('/cadastro', function () {
 
 Route::get('/contato', function () {
     return view('contato');
+});
+
+Route::get('/modalidades', function () {
+    return view('modalidades');
 });
 
 ?>

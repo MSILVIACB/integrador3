@@ -53,32 +53,34 @@
             </div>
           </div>
         </div>
-      <br>
 
-      <div class="row justify-content-center" >
-    <h1>"Escolha sua Modalidade preferida"</h1>
+      <div class="row text-center mt-3">
+        <h1>"Escolha sua Modalidade preferida"</h1>
       </div>
           <div class="container">
                   <div class="row justify-content-center">
-                    <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                      <img src="/img/woman3.jpg" class="card-img-top" alt="...">
-                      <div class="card-body">
-                        <h5 class="card-title">Musculação Feminina</h5>
-                        <p class="card-text">Some quick example text to build on the card
-                              title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-warning">Selecione</a>
+                    <div class="col-12 col-med-6 col-lg-4">
+                      <div class="card card-center" style="width: 18rem;">
+                        <img src="/img/woman3.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Musculação Feminina</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                          <a href="#" class="btn btn-warning">Selecione</a>
+                        </div>
                       </div>
                     </div>
+                    <div class="col-12 col-med-6 col-lg-4">
+                      <div class="card card-center" style="width: 18rem;">
+                        <img src="/img/zumba4.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Zumba</h5>
+                          <p class="card-text">Some quick example text to build on the card
+                                title and make up the bulk of the card's content.</p>
+                          <a href="#" class="btn btn-warning">Selecione</a>
+                        </div>
                     </div>
-                    <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                      <img src="/img/zumba4.jpg" class="card-img-top" alt="...">
-                      <div class="card-body">
-                        <h5 class="card-title">Zumba</h5>
-                        <p class="card-text">Some quick example text to build on the card
-                              title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-warning">Selecione</a>
-                      </div>
-                    </div> </div>
+                   </div>
+
                     <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
                       <img src="/img/ginástica/girl5.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
@@ -87,18 +89,20 @@
                               title and make up the bulk of the card's content.</p>
                         <a href="#" class="btn btn-warning">Selecione</a>
                       </div>
-                    </div> </div>
-
-                    <p>
-                        <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                        <img src="/img/cards/boxer.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                          <h5 class="card-title">Dynamic Boxe</h5>
-                          <p class="card-text">Some quick example text to build on the card
-                              title and make up the bulk of the card's content.</p>
-                          <a href="#" class="btn btn-warning">Selecione</a>
-                        </div>
-                      </div> </div>
+                    </div> 
+                  </div>
+                        
+                  <div class="col-12 col-med-6 col-lg-4">
+                    <div class="card card-center" style="width: 18rem;">
+                      <img src="/img/cards/boxer.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Dynamic Boxe</h5>
+                        <p class="card-text">Some quick example text to build on the card
+                            title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-warning">Selecione</a>
+                      </div>
+                    </div>
+                  </div>
                       <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
                         <img src="/img/cards/pilates.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -119,7 +123,7 @@
                         </div>
                         </div>
                       </div>
-                    <p>
+
                       <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
                         <img src="/img/yoga2.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -128,9 +132,10 @@
                                 title and make up the bulk of the card's content.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
-                      </div> </div>
+                      </div>
+                     </div>
 
-                      <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
+                     <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
                         <img src="/img/ritmos.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Ritmos</h5>
@@ -149,47 +154,34 @@
                         </div>
                       </div>
                     </div>
-                    <p>
-                      <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                          <img src="/img/saude1.jpg" class="card-img-top" alt="...">
-                          <div class="card-body">
-                            <h5 class="card-title">Alimentação Fit</h5>
-                            <p class="card-text">Some quick example text to build on the card
-                                title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-warning">Selecione</a>
-                          </div>
-                        </div>
-                        </div>
                   </div>
-                <br>
-                <br>
+
                 <div class="row mt-2">
                   <div class="col-12 col-md-6">
-                <form>
-                  <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-                  </div>
-                  <div class="mb-3">
-                    <label for="exampleInputPassword1" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="exampleInputPassword1">
-                  </div>
-                  <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                  </div>
-                  <button type="submit" class="btn btn-warning">Submit</button>
-                </form>
+                    <form>
+                      <div class="mb-3">
+                        <label for="exampleInputEmail1" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                      </div>
+                      <div class="mb-3">
+                        <label for="exampleInputPassword1" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1">
+                      </div>
+                      <div class="mb-3 form-check">
+                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                      </div>
+                      <button type="submit" class="btn btn-warning">Submit</button>
+                    </form>
                   </div>
                 <div class="col-12 col-md-6">
                   <img src="/img/machines5.jpg" class="w-100 mt-2" height="280" alt="Imagem Exemplo">
-                  </div>
+                </div>
 
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
           integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
           crossorigin="anonymous">
-
       </script>
     </body>
 </html>

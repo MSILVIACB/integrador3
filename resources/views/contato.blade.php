@@ -26,7 +26,7 @@
                     <a class="nav-link" aria-current="page" href="#">Planos</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Cadastros</a>
+                    <a class="nav-link" href="#">Cadastro</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Contato</a>

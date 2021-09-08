@@ -13,36 +13,31 @@
 
 
     <body >
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container-fluid ">
-            <div class="collapse navbar-collapse"
-            id="navbarSupportedContent">
-            <a class="navbar-link active"
-            aria-current="page"
-            href="#">
-            <img src="/img/logodynamicfit/Dynamic001.png"
-            class="d-block w-120 "
-            alt="...">
-            <button class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-            </button></a>
+        <header>
+          <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="/">
+                <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
+              </a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav d-flex justify-content-between">
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#">Planos</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Cadastros</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Contato</a>
+                  </li>
+                </ul>
+              </div>
             </div>
-            <ul class="nav justify-content-end " >
-                <div class="btn-group">
-                    <a href="#" class="btn btn-warning active" aria-current="page">Planos</a>
-                    <a href="#" class="btn btn-warning">Cadastro</a>
-                    <a href="#" class="btn btn-warning">Contato</a>
-                  </div>
-              </ul>
-           </div>
-         </div>
-       </nav>
+          </nav>
+
 
        <div class="container-fluid">
         <img src="/img/banners/bodycombat.jpg" class="img-fluid d-block w-100" alt="Banner">

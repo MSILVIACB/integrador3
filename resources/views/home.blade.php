@@ -64,7 +64,7 @@
                         <img src="/img/woman3.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Musculação Feminina</h5>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                          <p class="card-text">Melhora o condicionamento cardiorrespiratório, diminui a quantidade de gordura e auxilia no emagrecimento.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
                       </div>
@@ -74,8 +74,7 @@
                         <img src="/img/zumba4.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Zumba</h5>
-                          <p class="card-text">Some quick example text to build on the card
-                                title and make up the bulk of the card's content.</p>
+                          <p class="card-text">Aula de fitness-dança que incorpora música latina e internacional, juntamente com passos de dança combinando ritmos rápidos e lentos.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
                     </div>
@@ -85,20 +84,20 @@
                       <img src="/img/ginástica/girl5.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Ballet</h5>
-                        <p class="card-text">Some quick example text to build on the card
-                              title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Auxilia no autoconhecimento. Beneficia a Elasticidade, Postura, Equilíbrio, Respiração, Emagrecimento e Definição muscular.</p>
                         <a href="#" class="btn btn-warning">Selecione</a>
                       </div>
-                    </div> 
+                    </div>
                   </div>
-                        
+
                   <div class="col-12 col-med-6 col-lg-4">
                     <div class="card card-center" style="width: 18rem;">
                       <img src="/img/cards/boxer.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
-                        <h5 class="card-title">Dynamic Boxe</h5>
-                        <p class="card-text">Some quick example text to build on the card
-                            title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title">Dynamic Combat</h5>
+                        <p class="card-text">Programa baseado nos mais diversos estilos de Artes Marciais como: Boxe, Karatê,Muay Thai, Jiu Jitsu, Capoeira e Kick Boxing.
+                            Desenvolve o condicionamento físico.
+                        </p>
                         <a href="#" class="btn btn-warning">Selecione</a>
                       </div>
                     </div>
@@ -107,8 +106,7 @@
                         <img src="/img/cards/pilates.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Pilates</h5>
-                          <p class="card-text">Some quick example text to build on the card
-                              title and make up the bulk of the card's content.</p>
+                          <p class="card-text">A Aula mescla exercícios de flexibilidade e força a partir do trabalho da musculatura envolvendo nosso centro de gravidade e equilíbrio..</p>
                           <a href="#" class="btn btn btn-warning">Selecione</a>
                         </div>
                       </div>
@@ -117,8 +115,7 @@
                         <img src="/img/cards/jump.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Dynamic Jump</h5>
-                          <p class="card-text">Some quick example text to build on the card
-                                title and make up the bulk of the card's content.</p>
+                          <p class="card-text">Aula com mini-trampolim e a combinação entre músicas e movimentos através de coreografias. Proporcionam o trabalho cardio, equilíbrio e diversão.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
                         </div>
@@ -128,8 +125,7 @@
                         <img src="/img/yoga2.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Yoga</h5>
-                          <p class="card-text">Some quick example text to build on the card
-                                title and make up the bulk of the card's content.</p>
+                          <p class="card-text">Prática milenar com benefícios físicos e mentais. Proporciona redução do estresse, alívio da ansiedade, melhora da concentração, força, flexibilidade e gasto calórico</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
                       </div>
@@ -139,8 +135,8 @@
                         <img src="/img/ritmos.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Ritmos</h5>
-                          <p class="card-text">Some quick example text to build on the card
-                              title and make up the bulk of the card's content.</p>
+                          <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula.
+                              Trabalha a coordenação, reduzo estresse e a ansiedade.</p>
                             <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
                       </div> </div>
@@ -148,8 +144,8 @@
                         <img src="/img/man3.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Musculação Masculina</h5>
-                          <p class="card-text">Some quick example text to build on the card
-                                title and make up the bulk of the card's content.</p>
+                          <p class="card-text">Melhora a postura , diminui a quantidade de gordura, tonifica os músculos,
+                               aumenta a densidade óssea e melhora o condicionamento cardiorrespiratório.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
                       </div>

@@ -6,9 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"crossorigin="anonymous">
+        <link rel= "stylesheet" href="/css/styles.css">
         <script src="/js/scripts.js"></script>
-    </head>
-    <body >
+        </head>
+        <body >
         <header>
           <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
@@ -21,13 +22,13 @@
               <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav d-flex justify-content-between">
                   <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Planos</a>
+                    <a class="nav-link" aria-current="page" href="#"><h2>Planos</h2></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Cadastro</a>
+                    <a class="nav-link" href="#"><h2>Cadastro</h2></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Contato</a>
+                    <a class="nav-link" href="#"><h2>Contato</h2></a>
                   </li>
                 </ul>
               </div>

@@ -51,6 +51,7 @@
       <div class="row text-center mt-3">
         <h1>"Escolha sua Modalidade preferida"</h1>
       </div>
+      <br>
           <div class="container">
                   <div class="row justify-content-center">
                     <div class="col-12 col-med-6 col-lg-4">
@@ -145,7 +146,7 @@
                       </div>
                     </div>
                   </div>
-
+<br>
                 <div class="row mt-2">
                   <div class="col-12 col-md-6">
                     <form>

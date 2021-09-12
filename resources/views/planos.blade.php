@@ -1,6 +1,7 @@
 @extends ('layouts.main')
 
 @section ('content')
+
   <body >
         <header>
           <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -48,5 +49,38 @@
      </select>
   </div>
 <br>
+<br>
+<div class="card-group">
+    <div class="card">
+        <h1>Dynamic Student</h1>
+        <div class="card text-white bg-dark mb-3" style="max-width: 24rem;">
+        <h2 class="card-title">Plano Estudantil</h2>
+        <p class="card-text"><h3>Plano para estudantes com débito mensal recorrente direto
+             no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
+      </div>
+      <button type="button" class="btn btn-warning"><h2>R$ 149,00</h2></button>
+>   </div>
+
+    <div class="card">
+        <h1>Dynamic Fidelidade </h1>
+        <div class="card text-white bg-dark  mb-3" style="max-width: 24rem;">
+        <h2 class="card-title">Plano Recorrente</h2>
+        <p class="card-text"><h3>Plano fidelidade com débito mensal recorrente direto
+            no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
+              </div>
+      <button type="button" class="btn btn-warning"><h2>R$ 290,00</h2></button>
+    </div>
+
+    <div class="card">
+        <h1>Dynamic Platinum</h1>
+        <div class="card text-white bg-dark mb-3" style="max-width: 24rem;">
+        <h2 class="card-title">Plano Completo</h2>
+        <p class="card-text"><h3>Plano completo com débito mensal recorrente direto
+            no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
+      </div>
+      <button type="button" class="btn btn-warning"><h2>R$ 349,00</h2></button>
+    </div>
+   </div>
+  </body>
 
 @endsection

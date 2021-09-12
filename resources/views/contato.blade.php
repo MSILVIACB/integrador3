@@ -27,11 +27,11 @@
               </div>
             </div>
           </nav>
-
+          <br>
 
        <div class="row mt-2">
         <div class="col-12 col-md-6">
-     <form>
+       <form>
         <div class="mb-3">
           <label for="exampleInputEmail1" class="form-label">Email address</label>
           <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -54,5 +54,7 @@
        </div>
        <br>
       <br>
+        </header>
+        </body>
 
       @endsection

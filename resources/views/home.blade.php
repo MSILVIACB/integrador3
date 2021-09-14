@@ -2,33 +2,33 @@
 
 @section ('content')
 
-    <body >
+    <body>
       <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <a class="navbar-brand d-none d-sm-md-block d-lg-block d-xl-block" href="/" id="logo">
+            <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
+          </a>
           <div class="container-fluid">
-            <a class="navbar-brand" href="/">
-              <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
-            </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav d-flex justify-content-between ">
                 <li class="nav-item">
-                  <a class="nav-link" aria-current="page" href="#"><h2>Planos</h2></a>
+                  <a class="nav-link" aria-current="page" href="#">Planos</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"><h2>Cadastro</h2></a>
+                  <a class="nav-link" href="#">Cadastro</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"><h2>Contato</h2></a>
+                  <a class="nav-link" href="#">Contato</a>
                 </li>
               </ul>
             </div>
           </div>
         </nav>
       </header>
-          <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img src="/img/banners/banner0.jpg" class="img-fluid d-block w-100" alt="Banner">
@@ -51,7 +51,6 @@
       <div class="row text-center mt-3">
         <h1>"Escolha sua Modalidade preferida"</h1>
       </div>
-      <br>
           <div class="container">
                   <div class="row justify-content-center">
                     <div class="col-12 col-med-6 col-lg-4">
@@ -146,7 +145,7 @@
                       </div>
                     </div>
                   </div>
-<br>
+
                 <div class="row mt-2">
                   <div class="col-12 col-md-6">
                     <form>

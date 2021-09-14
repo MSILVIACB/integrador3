@@ -5,7 +5,7 @@
     <body>
       <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a class="navbar-brand d-none d-sm-md-block d-lg-block d-xl-block" href="/" id="logo">
+          <a class="navbar-brand d-none d-sm-md-block d-lg-block d-xl-block p-2" href="/" id="logo">
             <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
           </a>
           <div class="container-fluid">
@@ -13,7 +13,7 @@
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
-              <ul class="navbar-nav d-flex justify-content-between ">
+              <ul class="navbar-nav">
                 <li class="nav-item">
                   <a class="nav-link" aria-current="page" href="#">Planos</a>
                 </li>
@@ -28,6 +28,7 @@
           </div>
         </nav>
       </header>
+      <div class="container">
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -47,6 +48,7 @@
             </div>
           </div>
         </div>
+      </div>
 
       <div class="row text-center mt-3">
         <h1>"Escolha sua Modalidade preferida"</h1>
@@ -54,7 +56,7 @@
           <div class="container">
                   <div class="row justify-content-center">
                     <div class="col-12 col-med-6 col-lg-4">
-                      <div class="card card-center" style="width: 18rem;">
+                      <div class="card card-center" style="max-width: 18rem;width: auto;height: auto;">
                         <img src="/img/woman3.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Musculação Feminina</h5>
@@ -64,7 +66,7 @@
                       </div>
                     </div>
                     <div class="col-12 col-med-6 col-lg-4">
-                      <div class="card card-center" style="width: 18rem;">
+                      <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
                         <img src="/img/zumba4.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Zumba</h5>
@@ -74,7 +76,7 @@
                     </div>
                    </div>
 
-                    <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
+                    <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
                       <img src="/img/ginástica/girl5.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Ballet</h5>
@@ -170,4 +172,5 @@
                 </div>
                 </div>
           </div>
+    </body>
                 @endsection

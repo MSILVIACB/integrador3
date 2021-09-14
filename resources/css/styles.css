@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 :root {
     --bs-blue: #0d6efd;
@@ -53,4 +54,8 @@
     --bs-body-line-height: 1.5;
     --bs-body-color: #212529;
     --bs-body-bg: #fff;
+  }
+  img{
+    width: auto;
+    height: auto;
   }

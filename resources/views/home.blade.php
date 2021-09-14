@@ -49,7 +49,7 @@
         </div>
 
       <div class="row text-center mt-3">
-        <h1>"Escolha sua Modalidade preferida"</h1>
+        <h1>"Escolha sua modalidade preferida"</h1>
       </div>
           <div class="container">
                   <div class="row justify-content-center">
@@ -78,7 +78,7 @@
                       <img src="/img/ginástica/girl5.jpg" class="card-img-top img-fluid" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Ballet</h5>
-                        <p class="card-text">Auxilia no autoconhecimento. Beneficia a Elasticidade, Postura, Equilíbrio, Respiração, Emagrecimento e Definição muscular.</p>
+                        <p class="card-text">Auxilia no autoconhecimento. Beneficia a elasticidade, postura, equilíbrio, respiração, emagrecimento e definição muscular.</p>
                         <a href="#" class="btn btn-warning">Selecione</a>
                       </div>
                     </div>
@@ -89,20 +89,19 @@
                       <img src="/img/cards/boxer.jpg" class="card-img-top img-fluid" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Dynamic Combat</h5>
-                        <p class="card-text">Programa baseado nos mais diversos estilos de Artes Marciais como: Boxe, Karatê,Muay Thai, Jiu Jitsu, Capoeira e Kick Boxing.
-                            Desenvolve o condicionamento físico.
-                        </p>
+                        <p class="card-text">Programa baseado nos mais diversos estilos de Artes Marciais como: Boxe, Karatê, Muay Thai, Jiu Jitsu, Capoeira e Kick Boxing. Desenvolve o condicionamento físico.</p>
                         <a href="#" class="btn btn-warning">Selecione</a>
                       </div>
                     </div>
                   </div>
-                      <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                        <img src="/img/cards/pilates.jpg" class="card-img-top img-fluid" alt="...">
-                        <div class="card-body">
-                          <h5 class="card-title">Pilates</h5>
-                          <p class="card-text">A Aula mescla exercícios de flexibilidade e força a partir do trabalho da musculatura envolvendo nosso centro de gravidade e equilíbrio..</p>
-                          <a href="#" class="btn btn btn-warning">Selecione</a>
-                        </div>
+                      <div class="col-12 col-med-6 col-lg-4">
+                        <div class="card card-center" style="width: 18rem;">
+                          <img src="/img/cards/pilates.jpg" class="card-img-top img-fluid" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Pilates</h5>
+                            <p class="card-text">A aula mescla exercícios de flexibilidade e força a partir do trabalho da musculatura envolvendo nosso centro de gravidade e equilíbrio..</p>
+                            <a href="#" class="btn btn btn-warning">Selecione</a>
+                          </div>
                       </div>
                       </div>
                       <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
@@ -129,19 +128,18 @@
                         <img src="/img/ritmos.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Ritmos</h5>
-                          <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula.
-                              Trabalha a coordenação, reduzo estresse e a ansiedade.</p>
-                            <a href="#" class="btn btn-warning">Selecione</a>
-                        </div>
-                      </div> </div>
-                      <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                        <img src="/img/man3.jpg" class="card-img-top img-fluid" alt="...">
-                        <div class="card-body">
-                          <h5 class="card-title">Musculação Masculina</h5>
-                          <p class="card-text">Melhora a postura , diminui a quantidade de gordura, tonifica os músculos,
-                               aumenta a densidade óssea e melhora o condicionamento cardiorrespiratório.</p>
+                          <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula. Trabalha a coordenação, reduzo estresse e a ansiedade.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
+                      </div> </div>
+                      <div class="col-12 col-med-6 col-lg-4">
+                        <div class="card card-center" style="width: 18rem;">
+                          <img src="/img/man3.jpg" class="card-img-top img-fluid" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Musculação masculina</h5>
+                            <p class="card-text">Melhora a postura , diminui a quantidade de gordura, tonifica os músculos, aumenta a densidade óssea e melhora o condicionamento cardiorrespiratório.</p>
+                            <a href="#" class="btn btn-warning">Selecione</a>
+                          </div>
                       </div>
                     </div>
                   </div>
@@ -150,19 +148,14 @@
                   <div class="col-12 col-md-6">
                     <form>
                       <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Email address</label>
+                        <label for="exampleInputEmail1" class="form-label">Email</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                       </div>
                       <div class="mb-3">
-                        <label for="exampleInputPassword1" class="form-label">Password</label>
+                        <label for="exampleInputPassword1" class="form-label">Senha</label>
                         <input type="password" class="form-control" id="exampleInputPassword1">
                       </div>
-                      <div class="mb-3 form-check">
-                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                        <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                      </div>
-                      <button type="submit" class="btn btn-warning">Submit</button>
+                      <button type="submit" class="btn btn-warning">Login</button>
                     </form>
                   </div>
                 <div class="col-12 col-md-6">

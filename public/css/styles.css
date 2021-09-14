@@ -1,4 +1,11 @@
 * {
     font-family: 'Barlow', sans-serif;
     src: url('/fonts/Barlow/Barlow-Medium.tff');
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: auto;
+    height: auto;
 }

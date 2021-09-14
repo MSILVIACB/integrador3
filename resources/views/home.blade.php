@@ -48,9 +48,9 @@
           </div>
         </div>
 
-      <div class="row text-center mt-3">
-        <h1>"Escolha sua modalidade preferida"</h1>
-      </div>
+        <div class="row text-center mt-3">
+          <h1>"Escolha sua modalidade preferida"</h1>
+        </div>
           <div class="container">
                   <div class="row justify-content-center">
                     <div class="col-12 col-med-6 col-lg-4">
@@ -124,14 +124,16 @@
                       </div>
                      </div>
 
-                     <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                        <img src="/img/ritmos.jpg" class="card-img-top img-fluid" alt="...">
-                        <div class="card-body">
-                          <h5 class="card-title">Ritmos</h5>
-                          <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula. Trabalha a coordenação, reduzo estresse e a ansiedade.</p>
-                          <a href="#" class="btn btn-warning">Selecione</a>
+                      <div class="col-12 col-med-6 col-lg-4">
+                        <div class="card card-center" style="width: 18rem;">
+                          <img src="/img/ritmos.jpg" class="card-img-top img-fluid" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Ritmos</h5>
+                            <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula. Trabalha a coordenação, reduzo estresse e a ansiedade.</p>
+                            <a href="#" class="btn btn-warning">Selecione</a>
+                          </div>
                         </div>
-                      </div> </div>
+                      </div>
                       <div class="col-12 col-med-6 col-lg-4">
                         <div class="card card-center" style="width: 18rem;">
                           <img src="/img/man3.jpg" class="card-img-top img-fluid" alt="...">
@@ -158,10 +160,10 @@
                       <button type="submit" class="btn btn-warning">Login</button>
                     </form>
                   </div>
-                <div class="col-12 col-md-6">
-                  <img src="/img/machines5.jpg" class="w-100 mt-2 img-fluid" height="280" alt="Imagem Exemplo">
-                </div>
+                  <div class="col-12 col-md-6">
+                    <img src="/img/machines5.jpg" class="w-100 mt-2 img-fluid" height="280" alt="Imagem Exemplo">
+                  </div>
                 </div>
           </div>
     </body>
-                @endsection
+@endsection

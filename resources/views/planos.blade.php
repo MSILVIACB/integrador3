@@ -30,7 +30,7 @@
         </header>
 
        <div class="container-fluid">
-        <img src="/img/bodycombat.jpg" class="img-fluid d-block w-100" alt="Banner">
+        <img src="/img/lets2.jpg" class="img-fluid d-block w-100" alt="Banner">
       <h1>WORK YOUR BODY</h1></p>
     </div></div>
     <br>

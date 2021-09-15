@@ -56,7 +56,8 @@
           <h1>"Escolha sua modalidade preferida"</h1>
         </div>
         <br>
-          <div class="container">
+
+          <div class="container-lg">
                   <div class="row justify-content-center">
                     <div class="col-12 col-med-6 col-lg-4">
                       <div class="card card-center" style="max-width: 18rem;width: auto;height: auto;">
@@ -70,7 +71,7 @@
                     </div>
                     <div class="col-12 col-med-6 col-lg-4">
                       <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
-                        <img src="/img/zumba4.jpg" class="card-img-top img-fluid" alt="...">
+                        <img src="/img/cards/zumba2.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Zumba</h5>
                           <p class="card-text">Aula de fitness-dança que incorpora música latina e internacional, juntamente com passos de dança combinando ritmos rápidos e lentos.</p>
@@ -78,7 +79,8 @@
                         </div>
                     </div>
                    </div>
-             <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
+                <div class="col-12 col-med-6 col-lg-4">
+                  <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
                       <img src="/img/ginástica/girl5.jpg" class="card-img-top img-fluid" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Ballet</h5>
@@ -87,6 +89,7 @@
                       </div>
                     </div>
                   </div>
+<br>
                   <br>
                   <div class="col-12 col-med-6 col-lg-4">
                     <div class="card card-center" style="width: 18rem;">

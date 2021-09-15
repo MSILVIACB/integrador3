@@ -49,7 +49,7 @@
       </form>
         </div>
       <div class="col-12 col-md-6">
-        <img src="/img/machines5.jpg" class="w-100 mt-2" height="280" alt="Imagem Exemplo">
+        <img src="/img/banners/banner5.jpg" class="w-100 mt-2" height="280" alt="Imagem Exemplo">
         </div>
        </div>
        <br>

@@ -29,7 +29,7 @@
           </nav>
 
        <div class="container-fluid">
-        <img src="/img/banners/banner10.jpg" class="img-fluid d-block w-100" alt="Banner">
+        <img src="/img/lets4.jpg" class="img-fluid d-block w-100" alt="Banner">
       <h1>Cadastro do Aluno</h1></p>
     </div></div>
     <br>

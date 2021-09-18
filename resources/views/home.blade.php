@@ -3,31 +3,6 @@
 @section ('content')
 
         <body >
-            <header>
-              <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container px-4 px-lg-5">
-                  <a class="navbar-brand" href="#!">
-                    <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
-                  </a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                  </button>
-                  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                    <ul class="navbar-nav d-flex justify-content-between">
-                      <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#"><h2>Planos</h2></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#"><h2>Cadastro</h2></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#"><h2>Contato</h2></a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </nav>
-
 
       <div class="container">
      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
@@ -51,7 +26,7 @@
         </div>
       </div>
 
-      <header class="bg-dark py-4">
+      <div class="bg-dark py-4">
         <div class="container px-4 px-lg-5 my-5">
             <div class="text-center text-white">
                 <h2 class="display-4 fw-bolder">"Dica Dynamic"</h2>
@@ -60,12 +35,12 @@
                 </p>
             </div>
         </div>
-    </header>
+      </div>
 
         <div class="row text-center mt-3">
           <h1>"Escolha sua modalidade preferida"</h1>
         </div>
-        <br>
+        
 
         <div class="container px-4 px-lg-5 mt-5">
                   <div class="row justify-content-center">
@@ -99,8 +74,8 @@
                       </div>
                     </div>
                   </div>
-<br>
-                  <br>
+
+                  
                   <div class="col-12 col-med-6 col-lg-4">
                     <div class="card card-center" style="width: 18rem;">
                       <img src="/img/karate.jpg" class="card-img-top img-fluid" alt="...">
@@ -130,7 +105,7 @@
                         </div>
                         </div>
                       </div>
-                      <br>
+                      
                       <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
                         <img src="/img/yoga2.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
@@ -163,7 +138,7 @@
                   </div>
               </div>
 
-            <br>
+            
                 <div class="container">
                   <div class="row mt-2">
                     <div class="col-12 col-md-8">

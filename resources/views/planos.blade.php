@@ -5,7 +5,7 @@
 
   <div class="container-fluid">
     <img src="/img/lets2.jpg" class="img-fluid d-block w-100" alt="Banner">
-    <h1>WORK YOUR BODY</h1></p>
+    <h1>WORK YOUR BODY</h1>
   </div>
   <div class="container-fluid">
     <select class="form-select form-select-lg mb-3" aria-label=" ">

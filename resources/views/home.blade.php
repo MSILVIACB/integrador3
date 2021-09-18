@@ -2,12 +2,11 @@
 
 @section ('content')
 
-    <body>
         <body >
             <header>
               <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container-fluid">
-                  <a class="navbar-brand" href="/">
+                <div class="container px-4 px-lg-5">
+                  <a class="navbar-brand" href="#!">
                     <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
                   </a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,18 +51,29 @@
         </div>
       </div>
 
+      <header class="bg-dark py-4">
+        <div class="container px-4 px-lg-5 my-5">
+            <div class="text-center text-white">
+                <h2 class="display-4 fw-bolder">"Dica Dynamic"</h2>
+                <p class="lead fw-normal text-white-50 mb-0"><h3>'Realização de atividades intensas mantém frequência cardíaca elevada
+                    e causam melhora no metabolismo, ajudando na perda de gordura corporal.'</h3>
+                </p>
+            </div>
+        </div>
+    </header>
+
         <div class="row text-center mt-3">
           <h1>"Escolha sua modalidade preferida"</h1>
         </div>
         <br>
 
-          <div class="container-lg">
+        <div class="container px-4 px-lg-5 mt-5">
                   <div class="row justify-content-center">
-                    <div class="col-12 col-med-6 col-lg-4">
+                   <div class="col-12 col-med-6 col-lg-4">
                       <div class="card card-center" style="max-width: 18rem;width: auto;height: auto;">
-                        <img src="/img/woman3.jpg" class="card-img-top img-fluid" alt="...">
+                        <img src="/img/fitness.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
-                          <h5 class="card-title">Musculação Feminina</h5>
+                          <h5 class="card-title">Musculação Feminina & Masculina</h5>
                           <p class="card-text">Melhora o condicionamento cardiorrespiratório, diminui a quantidade de gordura e auxilia no emagrecimento.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
@@ -93,7 +103,7 @@
                   <br>
                   <div class="col-12 col-med-6 col-lg-4">
                     <div class="card card-center" style="width: 18rem;">
-                      <img src="/img/cards/boxer.jpg" class="card-img-top img-fluid" alt="...">
+                      <img src="/img/karate.jpg" class="card-img-top img-fluid" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Dynamic Combat</h5>
                         <p class="card-text">Programa baseado nos mais diversos estilos de Artes Marciais como: Boxe, Karatê, Muay Thai, Jiu Jitsu, Capoeira e Kick Boxing. Desenvolve o condicionamento físico.</p>
@@ -142,10 +152,10 @@
                       </div>
                       <div class="col-12 col-med-6 col-lg-4">
                         <div class="card card-center" style="width: 18rem;">
-                          <img src="/img/man3.jpg" class="card-img-top img-fluid" alt="...">
+                          <img src="/img/bodycombat3.jpg" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Musculação masculina</h5>
-                            <p class="card-text">Melhora a postura , diminui a quantidade de gordura, tonifica os músculos, aumenta a densidade óssea e melhora o condicionamento cardiorrespiratório.</p>
+                            <h5 class="card-title">Dynamic Boxe</h5>
+                            <p class="card-text">Aula de boxe-fitness que desenvolve o condicionamento físico através da técnica e exercícios de boxe.</p>
                             <a href="#" class="btn btn-warning">Selecione</a>
                           </div>
                       </div>
@@ -156,7 +166,7 @@
             <br>
                 <div class="container">
                   <div class="row mt-2">
-                    <div class="col-12 col-md-6">
+                    <div class="col-12 col-md-8">
                       <form>
                         <div class="mb-3">
                           <label for="exampleInputEmail1" class="form-label">Email</label>
@@ -169,8 +179,8 @@
                         <button type="submit" class="btn btn-warning">Login</button>
                       </form>
                     </div>
-                    <div class="col-12 col-md-6">
-                      <img src="/img/machines5.jpg" class="w-100 mt-2 img-fluid" height="280" alt="Imagem Exemplo">
+                    <div class="col-12 col-md-4">
+                      <img src="/img/workout.jpg" class="w-100 mt-2 " height="300" alt="Imagem Exemplo">
                     </div>
                   </div>
                 </div>

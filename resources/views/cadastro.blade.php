@@ -69,8 +69,11 @@
           <label for="validationCustom04" class="form-label">Estado</label>
           <select class="form-select" id="validationCustom04" required>
             <option selected disabled value="">Escolha...</option>
-            <option>...</option>
-          </select>
+            <option>SP</option>
+            <option>MG</option>
+            <option>RJ</option>
+            <option>Outro</option>
+            </select>
           <div class="invalid-feedback">
             Por favor, digite um nome de estado válido.
           </div>

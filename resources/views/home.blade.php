@@ -27,10 +27,10 @@
 
   <div class="bg-dark py-4">
     <div class="container px-4 px-lg-5 my-5">
-        <div class="text-center text-white">
-            <h2 class="display-4 fw-bolder">"Dica Dynamic"</h2>
-            <p class="lead fw-normal text-white-50 mb-0"><h3>'Realização de atividades intensas mantém frequência cardíaca elevada e causam melhora no metabolismo, ajudando na perda de gordura corporal.'</h3></p>
-        </div>
+      <div class="text-center text-white">
+        <h2 class="display-4 fw-bolder">"Dica Dynamic"</h2>
+        <p class="lead fw-normal text-white-50 mb-0"><h3>'Realização de atividades intensas mantém frequência cardíaca elevada e causam melhora no metabolismo, ajudando na perda de gordura corporal.'</h3></p>
+      </div>
     </div>
   </div>
 
@@ -39,9 +39,9 @@
   </div>
     
   <div class="container px-4 px-lg-5 mt-5">
-    <div class="row justify-content-center">
-      <div class="col-12 col-med-6 col-lg-4">
-        <div class="card card-center" style="max-width: 18rem;width: auto;height: auto;">
+    <div class="row d-flex justify-content-center">
+      <div class="col-auto mb-3">
+        <div class="card card-center" style="max-width: 18rem;">
           <img src="/img/fitness.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
             <h5 class="card-title">Musculação Feminina & Masculina</h5>
@@ -50,8 +50,8 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
-        <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
+      <div class="col-auto mb-3">
+        <div class="card card-center" style="width: 18rem;">
           <img src="/img/cards/zumba2.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
             <h5 class="card-title">Zumba</h5>
@@ -60,8 +60,8 @@
           </div>
       </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
-        <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
+      <div class="col-auto mb-3">
+        <div class="card card-center" style="width: 18rem;">
           <img src="/img/ginástica/girl5.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
             <h5 class="card-title">Ballet</h5>
@@ -70,7 +70,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
+      <div class="col-auto mb-3">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/karate.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -80,7 +80,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
+      <div class="col-auto mb-3">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/cards/pilates.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -90,7 +90,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
+      <div class="col-auto mb-3">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/cards/jump.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -100,7 +100,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
+      <div class="col-auto mb-3">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/yoga2.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -110,7 +110,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
+      <div class="col-auto mb-3">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/ritmos.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -120,7 +120,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-med-6 col-lg-4">
+      <div class="col-auto mb-3">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/bodycombat3.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">

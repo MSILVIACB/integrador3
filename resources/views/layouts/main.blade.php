@@ -12,7 +12,7 @@
         <header>
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark rounded-bottom">
               <div class="container px-4 px-lg-5">
-                <a class="navbar-brand d-none d-lg-block" href="#!">
+                <a class="navbar-brand d-none d-lg-block" href="/">
                   <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

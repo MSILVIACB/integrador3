@@ -10,7 +10,11 @@ img{
     width: auto;
     height: auto;
 }
-
 #navbar img {
     width: 50px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }

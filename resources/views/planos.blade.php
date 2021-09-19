@@ -36,10 +36,6 @@
     <br>
 
   <div class="container-fluid">
-    <img src="/img/lets2.jpg" class="img-fluid d-block w-100" alt="Banner">
-    <h1>WORK YOUR BODY</h1>
-  </div>
-  <div class="container-fluid">
     <select class="form-select form-select-lg mb-3" aria-label=" ">
         <option selected>Selecione as modalidades</option>
         <option value="1">Musculação Feminina & Masculina</option>
@@ -78,10 +74,8 @@
       </div>
       <button type="button" class="btn btn-warning"><h2>R$ 349,00</h2></button>
     </div>
-
-   </div>
-    </header>
-  </body>
   </div>
+
+   </header>
 </body>
 @endsection

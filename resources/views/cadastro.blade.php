@@ -62,7 +62,7 @@
         <option>TO</option>
         <option>DF</option>
         </select>
-      <div class="invalid-feedback">Por favor, digite um nome de estado válido.</div>
+    <div class="invalid-feedback">Por favor, digite um nome de estado válido.</div>
     </div>
     <div class="col-md-3">
       <label for="validationCustom05" class="form-label">CEP</label>

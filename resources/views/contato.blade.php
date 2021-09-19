@@ -3,10 +3,9 @@
 @section ('content')
 
 <body>
-
-       <div class="row mt-2">
-        <div class="col-12 col-md-6">
-       <form>
+  <div class="row mt-2 m-3">
+    <div class="col-12 col-md-6">
+      <form>
         <div class="mb-3">
           <label for="exampleInputEmail1" class="form-label">Email </label>
           <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -22,14 +21,10 @@
         </div>
         <button type="submit" class="btn btn-warning">Enviar</button>
       </form>
-        </div>
-      <div class="col-12 col-md-6">
-        <img src="/img/haltere5.jpg" class="w-100 mt-2" height="280" alt="Imagem Exemplo">
-        </div>
-       </div>
-       <br>
-      <br>
-        </header>
-        </body>
-
-      @endsection
+    </div>
+    <div class="col-12 col-md-6">
+      <img src="/img/haltere5.jpg" class="img-fluid rounded" height="280" alt="Imagem Exemplo">
+    </div>
+  </div>
+</body>
+@endsection

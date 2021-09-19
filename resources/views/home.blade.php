@@ -2,7 +2,6 @@
 
 @section ('content')
 
-<<<<<<< HEAD
         <body >
             <header>
               <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -29,7 +28,6 @@
                 </div>
               </nav>
 
-=======
 <body>
   <div class="container">
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
@@ -52,7 +50,7 @@
       </div>
     </div>
   </div>
->>>>>>> 1d5aa61bbb439155c4e7f3d5ffe5e387e965dc91
+
 
   <div class="bg-dark py-4">
     <div class="container px-4 px-lg-5 my-5">
@@ -62,11 +60,11 @@
       </div>
     </div>
   </div>
-   
+
   <div class="row text-center mt-3">
     <h1>"Escolha sua modalidade preferida"</h1>
   </div>
-    
+
   <div class="container px-4 px-lg-5 mt-5">
     <div class="row d-flex justify-content-center">
       <div class="col-auto mb-3 d-flex align-items-stretch">
@@ -98,7 +96,6 @@
             <a href="#" class="btn btn-warning">Selecione</a>
           </div>
         </div>
-<<<<<<< HEAD
     </header>
 <div class="container-fluid">
         <div class="row text-center mt-3">
@@ -229,7 +226,7 @@
                 </div>
             </header>
     </body>
-=======
+
       </div>
       <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
@@ -315,5 +312,5 @@
     </div>
   </div>
 </body>
->>>>>>> 1d5aa61bbb439155c4e7f3d5ffe5e387e965dc91
+
 @endsection

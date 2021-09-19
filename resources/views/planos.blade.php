@@ -3,7 +3,6 @@
 @section ('content')
 <body>
 
-<<<<<<< HEAD
 <body >
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -30,14 +29,12 @@
         </div>
       </nav>
 
-
        <div class="container-fluid">
         <img src="/img/banners/banner7.jpg" class="img-fluid d-block w-100" alt="Banner">
       <h1>WORK YOUR BODY</h1></p>
     </div></div>
     <br>
-=======
->>>>>>> 1d5aa61bbb439155c4e7f3d5ffe5e387e965dc91
+
   <div class="container-fluid">
     <img src="/img/lets2.jpg" class="img-fluid d-block w-100" alt="Banner">
     <h1>WORK YOUR BODY</h1>
@@ -81,13 +78,10 @@
       </div>
       <button type="button" class="btn btn-warning"><h2>R$ 349,00</h2></button>
     </div>
-<<<<<<< HEAD
+
    </div>
     </header>
   </body>
-=======
   </div>
 </body>
->>>>>>> 1d5aa61bbb439155c4e7f3d5ffe5e387e965dc91
-
 @endsection

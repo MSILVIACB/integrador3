@@ -7,19 +7,19 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/img/banners/banner0.jpg" class="img-fluid" alt="Banner">
+          <img src="/img/banners/banner0.jpg" class="d-block w-100 img-fluid" alt="Banner">
         </div>
         <div class="carousel-item">
-          <img src="/img/banners/banner1.jpg" class="img-fluid" alt="Banner">
+          <img src="/img/banners/banner1.jpg" class="d-block w-100 img-fluid" alt="Banner">
         </div>
         <div class="carousel-item">
-          <img src="/img/banners/banner5.jpg" class="img-fluid" alt="Banner">
+          <img src="/img/banners/banner5.jpg" class="d-block w-100 img-fluid" alt="Banner">
         </div>
         <div class="carousel-item">
-            <img src="/img/banners/banner3.jpg" class="img-fluid" alt="Banner">
+            <img src="/img/banners/banner3.jpg" class="d-block w-100 img-fluid" alt="Banner">
         </div>
         <div class="carousel-item">
-          <img src="/img/banners/banner4.jpg" class="img-fluid" alt="Banner">
+          <img src="/img/banners/banner4.jpg" class="d-block w-100 img-fluid" alt="Banner">
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@
       </div>
     </div>
   </div>
-
+   
   <div class="row text-center mt-3">
     <h1>"Escolha sua modalidade preferida"</h1>
   </div>

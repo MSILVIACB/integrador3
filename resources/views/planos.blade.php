@@ -1,7 +1,9 @@
 @extends ('layouts.main')
 
 @section ('content')
+<body>
 
+<<<<<<< HEAD
 <body >
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -34,8 +36,14 @@
       <h1>WORK YOUR BODY</h1></p>
     </div></div>
     <br>
+=======
+>>>>>>> 1d5aa61bbb439155c4e7f3d5ffe5e387e965dc91
   <div class="container-fluid">
-  <select class="form-select form-select-lg mb-3" aria-label=" ">
+    <img src="/img/lets2.jpg" class="img-fluid d-block w-100" alt="Banner">
+    <h1>WORK YOUR BODY</h1>
+  </div>
+  <div class="container-fluid">
+    <select class="form-select form-select-lg mb-3" aria-label=" ">
         <option selected>Selecione as modalidades</option>
         <option value="1">Musculação Feminina & Masculina</option>
         <option value="2">Zumba</option>
@@ -48,40 +56,38 @@
         <option value="9">Ballet</option>
      </select>
   </div>
-<br>
-<br>
-<div class="card-group">
+  <div class="card-group">
     <div class="card">
         <h1>Dynamic Student</h1>
         <div class="card text-white bg-dark mb-3" style="max-width: 24rem;">
         <h2 class="card-title">Plano Estudantil</h2>
-        <p class="card-text"><h3>Plano para estudantes com débito mensal recorrente direto
-             no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
+        <p class="card-text"><h3>Plano para estudantes com débito mensal recorrente direto no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
       </div>
       <button type="button" class="btn btn-warning"><h2>R$ 149,00</h2></button>
->   </div>
-
+    </div>
     <div class="card">
-        <h1>Dynamic Fidelidade </h1>
-        <div class="card text-white bg-dark  mb-3" style="max-width: 24rem;">
+      <h1>Dynamic Fidelidade </h1>
+      <div class="card text-white bg-dark  mb-3" style="max-width: 24rem;">
         <h2 class="card-title">Plano Recorrente</h2>
-        <p class="card-text"><h3>Plano fidelidade com débito mensal recorrente direto
-            no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
-              </div>
+        <p class="card-text"><h3>Plano fidelidade com débito mensal recorrente direto no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
+      </div>
       <button type="button" class="btn btn-warning"><h2>R$ 290,00</h2></button>
     </div>
-
     <div class="card">
-        <h1>Dynamic Platinum</h1>
-        <div class="card text-white bg-dark mb-3" style="max-width: 24rem;">
+      <h1>Dynamic Platinum</h1>
+      <div class="card text-white bg-dark mb-3" style="max-width: 24rem;">
         <h2 class="card-title">Plano Completo</h2>
-        <p class="card-text"><h3>Plano completo com débito mensal recorrente direto
-            no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
+        <p class="card-text"><h3>Plano completo com débito mensal recorrente direto no cartão de crédito com permanência mínima de 12 meses. Disponível também por boleto bancário.</h3></p>
       </div>
       <button type="button" class="btn btn-warning"><h2>R$ 349,00</h2></button>
     </div>
+<<<<<<< HEAD
    </div>
     </header>
   </body>
+=======
+  </div>
+</body>
+>>>>>>> 1d5aa61bbb439155c4e7f3d5ffe5e387e965dc91
 
 @endsection

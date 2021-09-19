@@ -188,7 +188,7 @@
                     </div>
                   </div>
                 </div>
-            </header>
-    </body>
-    <br>
+                <br>
+             </body>
+     </header>
 @endsection

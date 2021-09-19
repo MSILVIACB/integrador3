@@ -27,7 +27,7 @@
       </nav>
 <br>
        <div class="container-fluid text-center">
-        <img src="/img/banners/banner6.jpg" class="img-fluid d-block w-100" alt="Banner">
+        <img src="/img/banners/banner7.jpg" class="img-fluid d-block w-100" alt="Banner">
       <p><h1>WORK YOUR BODY</h1></p>
     </div>
     <br>

@@ -40,7 +40,7 @@
     
   <div class="container px-4 px-lg-5 mt-5">
     <div class="row d-flex justify-content-center">
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="max-width: 18rem;">
           <img src="/img/fitness.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -50,7 +50,7 @@
           </div>
         </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/cards/zumba2.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -60,7 +60,7 @@
           </div>
       </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/ginástica/girl5.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -70,7 +70,7 @@
           </div>
         </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/karate.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -80,17 +80,17 @@
           </div>
         </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/cards/pilates.jpg" class="card-img-top img-fluid" alt="...">
-          <div class="card-body">
+          <div class="card-body d-flex align-items-center flex-wrap">
             <h5 class="card-title">Pilates</h5>
             <p class="card-text">A aula mescla exercícios de flexibilidade e força a partir do trabalho da musculatura envolvendo nosso centro de gravidade e equilíbrio..</p>
             <a href="#" class="btn btn btn-warning">Selecione</a>
           </div>
         </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/cards/jump.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -100,7 +100,7 @@
           </div>
         </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/yoga2.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -110,7 +110,7 @@
           </div>
         </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/ritmos.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
@@ -120,10 +120,10 @@
           </div>
         </div>
       </div>
-      <div class="col-auto mb-3">
+      <div class="col-auto mb-3 d-flex align-items-stretch">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/bodycombat3.jpg" class="card-img-top img-fluid" alt="...">
-          <div class="card-body">
+          <div class="card-body d-flex align-items-center flex-wrap">
             <h5 class="card-title">Dynamic Boxe</h5>
             <p class="card-text">Aula de boxe-fitness que desenvolve o condicionamento físico através da técnica e exercícios de boxe.</p>
             <a href="#" class="btn btn-warning">Selecione</a>

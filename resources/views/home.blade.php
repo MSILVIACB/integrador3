@@ -5,9 +5,9 @@
         <body >
             <header>
               <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container px-4 px-lg-5">
+                <div class="container-fluid px-4 px-lg-5">
                   <a class="navbar-brand" href="#!">
-                    <img src="/img/logo/Dynamic00.png" alt="Logotipo" class="w-25 rounded-2">
+                    <img src="/img/logo/Dynamic01.png" alt="Logotipo" class="w-25 rounded-2">
                   </a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -61,17 +61,18 @@
             </div>
         </div>
     </header>
-
+<div class="container-fluid">
         <div class="row text-center mt-3">
           <h1>"Escolha sua modalidade preferida"</h1>
         </div>
+      </div>
         <br>
 
         <div class="container px-4 px-lg-5 mt-5">
                   <div class="row justify-content-center">
                    <div class="col-12 col-med-6 col-lg-4">
-                      <div class="card card-center" style="max-width: 18rem;width: auto;height: auto;">
-                        <img src="/img/fitness.jpg" class="card-img-top img-fluid" alt="...">
+                      <div class="card card-center" style="max-width: 18rem;">
+                        <img src="/img/cards/fitness.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Musculação Feminina & Masculina</h5>
                           <p class="card-text">Melhora o condicionamento cardiorrespiratório, diminui a quantidade de gordura e auxilia no emagrecimento.</p>
@@ -80,18 +81,18 @@
                       </div>
                     </div>
                     <div class="col-12 col-med-6 col-lg-4">
-                      <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
-                        <img src="/img/cards/zumba2.jpg" class="card-img-top img-fluid" alt="...">
+                      <div class="card card-center" style="width: 18rem;">
+                        <img src="/img/cards/zumba1.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Zumba</h5>
-                          <p class="card-text">Aula de fitness-dança que incorpora música latina e internacional, juntamente com passos de dança combinando ritmos rápidos e lentos.</p>
+                          <p class="card-text">Aula de fitness-dança que incorpora música latina e internacional com passos de dança combinando ritmos rápidos e lentos.</p>
                           <a href="#" class="btn btn-warning">Selecione</a>
                         </div>
                     </div>
                    </div>
                 <div class="col-12 col-med-6 col-lg-4">
-                  <div class="card card-center" style="width: 18rem;width: auto;height: auto;">
-                      <img src="/img/ginástica/girl5.jpg" class="card-img-top img-fluid" alt="...">
+                  <div class="card card-center" style="width: 18rem;">
+                      <img src="/img/cards/girl5.jpg" class="card-img-top img-fluid" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Ballet</h5>
                         <p class="card-text">Auxilia no autoconhecimento. Beneficia a elasticidade, postura, equilíbrio, respiração, emagrecimento e definição muscular.</p>
@@ -99,11 +100,11 @@
                       </div>
                     </div>
                   </div>
-<br>
+                  <br>
                   <br>
                   <div class="col-12 col-med-6 col-lg-4">
                     <div class="card card-center" style="width: 18rem;">
-                      <img src="/img/karate.jpg" class="card-img-top img-fluid" alt="...">
+                      <img src="/img/cards/karate.jpg" class="card-img-top img-fluid" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Dynamic Combat</h5>
                         <p class="card-text">Programa baseado nos mais diversos estilos de Artes Marciais como: Boxe, Karatê, Muay Thai, Jiu Jitsu, Capoeira e Kick Boxing. Desenvolve o condicionamento físico.</p>
@@ -121,7 +122,8 @@
                           </div>
                       </div>
                       </div>
-                      <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
+                      <div class="col-12 col-med-6 col-lg-4">
+                          <div class="card card-center" style="width: 18rem;">
                         <img src="/img/cards/jump.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Dynamic Jump</h5>
@@ -131,8 +133,10 @@
                         </div>
                       </div>
                       <br>
-                      <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                        <img src="/img/yoga2.jpg" class="card-img-top img-fluid" alt="...">
+                     <br>
+                      <div class="col-12 col-med-6 col-lg-4">
+                          <div class="card card-center" style="width: 18rem;">
+                        <img src="/img/cards/yoga2.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Yoga</h5>
                           <p class="card-text">Prática milenar com benefícios físicos e mentais. Proporciona redução do estresse, alívio da ansiedade, melhora da concentração, força, flexibilidade e gasto calórico</p>
@@ -142,7 +146,7 @@
                      </div>
                      <div class="col-12 col-med-6 col-lg-4">
                         <div class="card card-center" style="width: 18rem;">
-                          <img src="/img/ritmos.jpg" class="card-img-top img-fluid" alt="...">
+                          <img src="/img/cards/ritmos.jpg" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
                             <h5 class="card-title">Ritmos</h5>
                             <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula. Trabalha a coordenação, reduzo estresse e a ansiedade.</p>
@@ -152,19 +156,19 @@
                       </div>
                       <div class="col-12 col-med-6 col-lg-4">
                         <div class="card card-center" style="width: 18rem;">
-                          <img src="/img/bodycombat3.jpg" class="card-img-top img-fluid" alt="...">
+                          <img src="/img/cards/bodycombat3.jpg" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
                             <h5 class="card-title">Dynamic Boxe</h5>
-                            <p class="card-text">Aula de boxe-fitness que desenvolve o condicionamento físico através da técnica e exercícios de boxe.</p>
+                            <p class="card-text">Aula de boxe-fitness que desenvolve o condicionamento físico pois trabalhacom vários grupos musculares através da técnica e exercícios de boxe.</p>
                             <a href="#" class="btn btn-warning">Selecione</a>
                           </div>
                       </div>
                     </div>
                   </div>
               </div>
-
             <br>
-                <div class="container">
+            <br>
+                <div class="container-fluid">
                   <div class="row mt-2">
                     <div class="col-12 col-md-8">
                       <form>

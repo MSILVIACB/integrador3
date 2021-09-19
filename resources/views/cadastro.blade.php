@@ -3,8 +3,8 @@
 @section ('content')
 <body>
   <div class="container-fluid">
-    <img src="/img/banners/banner2.jpg" class="img-fluid d-block w-100 rounded" alt="Banner">
-    <h1 class="text-center mt-3">Cadastro do Aluno</h1>
+    <img src="/img/banners/banner2.jpg" class="img-fluid d-block w-100 rounded-bottom" alt="Banner">
+    <h1 class="text-center mt-3 font-weight-bold">Cadastro do Aluno</h1>
   </div>
   <form class="row g-3 needs-validation m-3" novalidate>
     <div class="col-md-4">

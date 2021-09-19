@@ -48,33 +48,37 @@
   </div>
 
 
-  <div class="row row-cols-1 row-cols-md-1 g-4">
-    <div class="col">
-      <div class="card-group">
+  <section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div class="col mb-5">
 
-        <div class="card-body text-white bg-dark mb-3" style="max-width: 26rem;">
+        <div class="card-body text-white bg-dark " style="max-width: 26rem;">
         <h2 class="card-title">Plano Estudantil</h2>
         <p class="card-text"><h4>Plano para estudantes com débito mensal recorrente direto no cartão de crédito com
             permanência mínima de 12 meses. Disponível também por boleto bancário.</h4></p>
         <button type="button" class="btn btn-warning"><h2>R$ 149,00</h2></button>
-        </div>
+        </div></div>
 
-        <div class="card-body text-white bg-dark mb-3" style="max-width: 26rem;">
+        <div class="col mb-5">
+        <div class="card-body text-white bg-dark" style="max-width: 26rem;">
         <h2 class="card-title">Plano Recorrente</h2>
         <p class="card-text"><h4>Plano fidelidade com débito mensal recorrente direto no cartão de crédito com permanência
              mínima de 12 meses. Disponível também por boleto bancário.</h4></p>
         <button type="button" class="btn btn-warning "><h2>R$ 289,00</h2></button>
-        </div>
+        </div></div>
 
-
-        <div class="card-body text-white bg-dark mb-3" style="max-width: 26rem;">
+        <div class="col mb-5">
+        <div class="card-body text-white bg-dark " style="max-width: 26rem;">
         <h2 class="card-title">Plano Completo</h2>
         <p class="card-text"><h4>Plano completo com débito mensal recorrente direto no cartão de crédito com permanência
              mínima de 12 meses. Disponível também por boleto bancário.</h4></p>
         <button type="button" class="btn btn-warning"><h2>R$ 349,00</h2></button>
         </div>
+    </div>
   </div>
 </div>
 
+</section>
 </header>
 @endsection

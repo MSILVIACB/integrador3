@@ -2,8 +2,7 @@
 
 @section ('content')
 
-<body >
-    <header>
+ <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid px-4 px-lg-5">
           <a class="navbar-brand" href="#!">
@@ -27,12 +26,14 @@
           </div>
         </div>
       </nav>
+    </header>
 
        <div class="container-fluid">
         <img src="/img/banners/banner2.jpg" class="img-fluid d-block w-100" alt="Banner">
       <h1>Cadastro do Aluno</h1></p>
-    </div>
+
     <br>
+
     <form class="row g-3 needs-validation" novalidate>
         <div class="col-md-4">
           <label for="validationCustom01" class="form-label">Nome</label>
@@ -58,7 +59,17 @@
             </div>
           </div>
         </div>
+
         <div class="col-md-6">
+            <label for="inputEmail4" class="form-label">Email</label>
+            <input type="email" class="form-control" id="inputEmail4">
+          </div>
+          <div class="col-md-6">
+            <label for="inputPassword4" class="form-label">Senha</label>
+            <input type="password" class="form-control" id="inputPassword4">
+          </div>
+
+        <div class="col-md-5">
           <label for="validationCustom03" class="form-label">Cidade</label>
           <input type="text" class="form-control" id="validationCustom03" required>
           <div class="invalid-feedback">
@@ -78,7 +89,7 @@
             Por favor, digite um nome de estado válido.
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
           <label for="validationCustom05" class="form-label">CEP</label>
           <input type="text" class="form-control" id="validationCustom05" required>
           <div class="invalid-feedback">
@@ -96,12 +107,15 @@
             </div>
           </div>
         </div>
-        <div class="col-12">
-          <button class="btn btn-primary" type="submit">Envie os dados</button>
-        </div>
-     </form>
 
-    </header>
-    </body>
+        <div class="col-12">
+          <button class="btn btn-warning" type="submit">Envie os dados</button>
+        </div>
+
+    </form>
+
+
+    <br>
 <br>
+<hr>
     @endsection

@@ -3,52 +3,28 @@
 @section ('content')
 
 <body>
-                <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container-fluid px-4 px-lg-5">
-                  <a class="navbar-brand" href="#!">
-                    <img src="/img/logo/Dynamic01.png" alt="Logotipo" class="w-25 rounded-2">
-                  </a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                  </button>
-                  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                    <ul class="navbar-nav d-flex justify-content-between">
-                      <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#"><h3>Planos</h3></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#"><h3>Cadastro</h3></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#"><h3>Contato</h3></a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </nav>
+  <div class="container">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/img/banners/banner0.jpg" class="img-fluid" alt="Banner">
+        </div>
+        <div class="carousel-item">
+          <img src="/img/banners/banner1.jpg" class="img-fluid" alt="Banner">
+        </div>
+        <div class="carousel-item">
+          <img src="/img/banners/banner2.jpg" class="img-fluid" alt="Banner">
+        </div>
+        <div class="carousel-item">
+            <img src="/img/banners/banner3.jpg" class="img-fluid" alt="Banner">
+        </div>
+        <div class="carousel-item">
+          <img src="/img/banners/banner4.jpg" class="img-fluid" alt="Banner">
+        </div>
+      </div>
+    </div>
+  </div>
 
-              <div class="container">
-                <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-                     <div class="carousel-inner">
-                       <div class="carousel-item active">
-                         <img src="/img/banners/banner0.jpg" class="img-fluid" alt="Banner">
-                       </div>
-                       <div class="carousel-item">
-                         <img src="/img/banners/banner1.jpg" class="img-fluid" alt="Banner">
-                       </div>
-                       <div class="carousel-item">
-                         <img src="/img/banners/banner2.jpg" class="img-fluid" alt="Banner">
-                       </div>
-                       <div class="carousel-item">
-                           <img src="/img/banners/banner3.jpg" class="img-fluid" alt="Banner">
-                       </div>
-                       <div class="carousel-item">
-                         <img src="/img/banners/banner4.jpg" class="img-fluid" alt="Banner">
-                       </div>
-                     </div>
-                   </div>
-                 </div>
-<header>
   <div class="bg-dark py-3">
     <div class="container px-4 px-lg-5 my-5">
       <div class="text-center text-white">

@@ -37,7 +37,7 @@
                          <img src="/img/banners/banner1.jpg" class="img-fluid" alt="Banner">
                        </div>
                        <div class="carousel-item">
-                         <img src="/img/banners/banner5.jpg" class="img-fluid" alt="Banner">
+                         <img src="/img/banners/banner2.jpg" class="img-fluid" alt="Banner">
                        </div>
                        <div class="carousel-item">
                            <img src="/img/banners/banner3.jpg" class="img-fluid" alt="Banner">

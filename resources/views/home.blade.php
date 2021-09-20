@@ -2,9 +2,8 @@
 
 @section ('content')
 
-        <body >
-            <header>
-              <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<body>
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid px-4 px-lg-5">
                   <a class="navbar-brand" href="#!">
                     <img src="/img/logo/Dynamic01.png" alt="Logotipo" class="w-25 rounded-2">
@@ -15,43 +14,41 @@
                   <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav d-flex justify-content-between">
                       <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#"><h2>Planos</h2></a>
+                        <a class="nav-link" aria-current="page" href="#"><h3>Planos</h3></a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#"><h2>Cadastro</h2></a>
+                        <a class="nav-link" href="#"><h3>Cadastro</h3></a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#"><h2>Contato</h2></a>
+                        <a class="nav-link" href="#"><h3>Contato</h3></a>
                       </li>
                     </ul>
                   </div>
                 </div>
               </nav>
 
-<body>
-  <div class="container">
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="/img/banners/banner0.jpg" class="d-block w-100 img-fluid" alt="Banner">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/banners/banner1.jpg" class="d-block w-100 img-fluid" alt="Banner">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/banners/banner5.jpg" class="d-block w-100 img-fluid" alt="Banner">
-        </div>
-        <div class="carousel-item">
-            <img src="/img/banners/banner3.jpg" class="d-block w-100 img-fluid" alt="Banner">
-        </div>
-        <div class="carousel-item">
-          <img src="/img/banners/banner4.jpg" class="d-block w-100 img-fluid" alt="Banner">
-        </div>
-      </div>
-    </div>
-  </div>
-
-
+              <div class="container">
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                     <div class="carousel-inner">
+                       <div class="carousel-item active">
+                         <img src="/img/banners/banner0.jpg" class="img-fluid" alt="Banner">
+                       </div>
+                       <div class="carousel-item">
+                         <img src="/img/banners/banner1.jpg" class="img-fluid" alt="Banner">
+                       </div>
+                       <div class="carousel-item">
+                         <img src="/img/banners/banner5.jpg" class="img-fluid" alt="Banner">
+                       </div>
+                       <div class="carousel-item">
+                           <img src="/img/banners/banner3.jpg" class="img-fluid" alt="Banner">
+                       </div>
+                       <div class="carousel-item">
+                         <img src="/img/banners/banner4.jpg" class="img-fluid" alt="Banner">
+                       </div>
+                     </div>
+                   </div>
+                 </div>
+<header>
   <div class="bg-dark py-3">
     <div class="container px-4 px-lg-5 my-5">
       <div class="text-center text-white">
@@ -59,6 +56,8 @@
         <p class="lead fw-normal text-white-50 mb-0"><h3>'Realização de atividades intensas mantém frequência cardíaca elevada e causam melhora no metabolismo, ajudando na perda de gordura corporal.'</h3></p>
       </div>
     </div>
+  </div>
+</header>
 </div>
 
 <div class="container-fluid">
@@ -189,6 +188,5 @@
                   </div>
                 </div>
                 <br>
-             </body>
-     </header>
+        </body>
 @endsection

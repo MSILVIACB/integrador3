@@ -1,7 +1,7 @@
 @extends ('layouts.main')
 
 @section ('content')
-<header>
+<body>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid px-4 px-lg-5">
           <a class="navbar-brand" href="#!">
@@ -13,13 +13,13 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav d-flex justify-content-between">
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#"><h2>Planos</h2></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#"><h2>Cadastro</h2></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#"><h2>Contato</h2></a>
+                <a class="nav-link" aria-current="page" href="#"><h3>Planos</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"><h3>Cadastro</h3></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"><h3>Contato</h3></a>
               </li>
             </ul>
           </div>
@@ -35,8 +35,8 @@
         <div class="container px-4 px-lg-5 my-5">
           <div class="text-center text-white">
             <h2 class="display-4 fw-bolder">"Dica Dynamic"</h2>
-            <p class="lead fw-normal text-white-50 mb-0"><h3>'Com o auxilio de um professor para acompanhar sua
-                evolução em 45 dias já se alcança resultados satisfatórios.'</h3></p>
+            <p class="lead fw-normal text-white-50 mb-0"><h3>'Com o auxílio de um professor para acompanhar sua
+                evolução, em 45 dias já se alcança resultados satisfatórios.'</h3></p>
           </div>
         </div>
     </div>
@@ -98,5 +98,5 @@
      </select>
    </div>
 </section>
-</header>
+</body>
 @endsection

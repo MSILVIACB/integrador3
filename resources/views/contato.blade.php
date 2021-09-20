@@ -15,13 +15,13 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav d-flex justify-content-between">
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#"><h2>Planos</h2></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#"><h2>Cadastro</h2></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#"><h2>Contato</h2></a>
+                <a class="nav-link" aria-current="page" href="#"><h3>Planos</h3></a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#"><h3>Cadastro</h3></a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#"><h3>Contato</h3></a>
               </li>
             </ul>
           </div>

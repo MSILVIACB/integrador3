@@ -22,11 +22,6 @@
                       <li class="nav-item">
                         <a class="nav-link" href="#"><h3>Contato</h3></a>
                       </li>
-                      <li class="nav-item">
-                      <a class="nav-link text-secondary fw-bold fs-4" href="#"language='portugues' class="ativo">PT</a>
-                      <li class="nav-item">
-                      <a class="nav-link text-secondary fw-bold fs-4" href="#"language='english'>EN</a>
-                      </li></li>
                     </ul>
                   </div>
                 </div>

@@ -3,35 +3,44 @@
 @section ('content')
 
 <body>
-                <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container-fluid px-4 px-lg-5">
-                  <a class="navbar-brand" href="#!">
-                    <img src="/img/logo/Dynamic01.png" alt="Logotipo" class="w-25 rounded-2">
-                  </a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                  </button>
-                  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                    <ul class="navbar-nav d-flex justify-content-between">
-                      <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#"><h3>Planos</h3></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#"><h3>Cadastro</h3></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#"><h3>Contato</h3></a>
-                      </li>
-                    </ul>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid px-4 px-lg-5">
+          <a class="navbar-brand" href="#!">
+            <img src="/img/logo/Dynamic01.png" alt="Logotipo" class="w-25 rounded-2">
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav d-flex justify-content-between">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="#"><h3>Planos</h3></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"><h3>Cadastro</h3></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"><h3>Contato</h3></a>
+              </li>
+                     <span>
+                      <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='portugues' class="ativo">PT</a>
+                      <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='english'>EN</a>
+                    </span>
+                   </ul>
                   </div>
                 </div>
-              </nav>
+                <div vw class="enabled" title="VLibras">
+                    <div vw-access-button class="active"></div>
+                    <div vw-plugin-wrapper>
+                      <div class="vw-plugin-top-wrapper"></div>
+                    </div></div></div>
+                </nav>
 
               <div class="container">
                 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
                      <div class="carousel-inner">
                        <div class="carousel-item active">
-                         <img src="/img/banners/banner0.jpg" class="img-fluid" alt="Banner">
+                         <img src="/img/banners/banner9.jpg" class="img-fluid" alt="Banner">
                        </div>
                        <div class="carousel-item">
                          <img src="/img/banners/banner1.jpg" class="img-fluid" alt="Banner">
@@ -155,7 +164,7 @@
                       </div>
                       <div class="col-12 col-med-6 col-lg-4">
                         <div class="card card-center" style="width: 18rem;">
-                          <img src="/img/cards/bodycombat3.jpg" class="card-img-top img-fluid" alt="...">
+                          <img src="/img/kickboxing.jpg" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
                             <h5 class="card-title">Dynamic Boxe</h5>
                             <p class="card-text">Aula de boxe-fitness que desenvolve o condicionamento físico pois trabalhacom vários grupos musculares através da técnica e exercícios de boxe.</p>
@@ -188,5 +197,56 @@
                   </div>
                 </div>
                 <br>
-        </body>
-@endsection
+            </body>
+            @endsection
+
+        <nav class="contato" id="contato"></nav>
+          <script src="funcoes.js"></script>
+          <script src="lingua.js"></script>
+          <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+          <script>
+              new window.VLibras.Widget('https://vlibras.gov.br/app');
+
+              const sec = document.querySelector('.sec');
+              const acs = document.querySelector('.acessibilidade');
+              const con = document.querySelector('.contato');
+
+              const toggle = document.querySelector('.toggle');
+              const menos = document.querySelector('.menos');
+              const mais = document.querySelector('.mais');
+              const normal = document.querySelector('.normal');
+
+              const azul = document.querySelector('.azul');
+              const vermelho = document.querySelector('.vermelho');
+              const verde = document.querySelector('.verde');
+
+              toggle.onclick = function() {
+                  sec.classList.toggle('dark');
+                  acs.classList.toggle('dark');
+                  rod.classList.toggle('dark');
+              }
+              mais.onclick = function() {
+                  javascript:mudaTamanho('section', +1);
+              }
+              menos.onclick = function() {
+                  javascript:mudaTamanho('section', -1);
+              }
+              normal.onclick = function() {
+                  javascript:mudaTamanho('section', 0);
+              }
+
+              azul.onclick = function() {
+                  javascript:mudaCor('azul');
+              }
+              vermelho.onclick = function() {
+                  javascript:mudaCor('vermelho');
+              }
+              verde.onclick = function() {
+                  javascript:mudaCor('verde');
+              }
+
+          </script>
+
+
+
+

@@ -4,7 +4,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid px-4 px-lg-5">
+        <div class="container-fluid px-4 px-lg-6">
           <a class="navbar-brand" href="#!">
             <img src="/img/logo/Dynamic01.png" alt="Logotipo" class="w-25 rounded-2">
           </a>
@@ -22,18 +22,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="#"><h3>Contato</h3></a>
               </li>
-                     <span>
-                      <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='portugues' class="ativo">PT</a>
-                      <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='english'>EN</a>
-                    </span>
                    </ul>
                   </div>
                 </div>
-                <div vw class="enabled" title="VLibras">
-                    <div vw-access-button class="active"></div>
-                    <div vw-plugin-wrapper>
-                      <div class="vw-plugin-top-wrapper"></div>
-                    </div></div></div>
                 </nav>
 
               <div class="container">
@@ -74,9 +65,9 @@
           <h1>"Escolha sua modalidade preferida"</h1>
         </div>
       </div>
-        <br>
+    <br>
 
-        <div class="container px-4 px-lg-5 mt-5">
+    <div class="container px-4 px-lg-5 mt-5">
                   <div class="row justify-content-center">
                    <div class="col-12 col-med-6 col-lg-4">
                       <div class="card card-center" style="max-width: 18rem;">
@@ -108,8 +99,11 @@
                       </div>
                     </div>
                   </div>
+                  </div>
                   <br>
                   <br>
+
+                  <div class="row justify-content-center">
                   <div class="col-12 col-med-6 col-lg-4">
                     <div class="card card-center" style="width: 18rem;">
                       <img src="/img/cards/karate.jpg" class="card-img-top img-fluid" alt="...">
@@ -140,8 +134,10 @@
                         </div>
                         </div>
                       </div>
-                      <br>
-                     <br>
+                    </div>
+                    <br>
+                    <br>
+                     <div class="row justify-content-center">
                       <div class="col-12 col-med-6 col-lg-4">
                           <div class="card card-center" style="width: 18rem;">
                         <img src="/img/cards/yoga2.jpg" class="card-img-top img-fluid" alt="...">
@@ -199,54 +195,3 @@
                 <br>
             </body>
             @endsection
-
-        <nav class="contato" id="contato"></nav>
-          <script src="funcoes.js"></script>
-          <script src="lingua.js"></script>
-          <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
-          <script>
-              new window.VLibras.Widget('https://vlibras.gov.br/app');
-
-              const sec = document.querySelector('.sec');
-              const acs = document.querySelector('.acessibilidade');
-              const con = document.querySelector('.contato');
-
-              const toggle = document.querySelector('.toggle');
-              const menos = document.querySelector('.menos');
-              const mais = document.querySelector('.mais');
-              const normal = document.querySelector('.normal');
-
-              const azul = document.querySelector('.azul');
-              const vermelho = document.querySelector('.vermelho');
-              const verde = document.querySelector('.verde');
-
-              toggle.onclick = function() {
-                  sec.classList.toggle('dark');
-                  acs.classList.toggle('dark');
-                  rod.classList.toggle('dark');
-              }
-              mais.onclick = function() {
-                  javascript:mudaTamanho('section', +1);
-              }
-              menos.onclick = function() {
-                  javascript:mudaTamanho('section', -1);
-              }
-              normal.onclick = function() {
-                  javascript:mudaTamanho('section', 0);
-              }
-
-              azul.onclick = function() {
-                  javascript:mudaCor('azul');
-              }
-              vermelho.onclick = function() {
-                  javascript:mudaCor('vermelho');
-              }
-              verde.onclick = function() {
-                  javascript:mudaCor('verde');
-              }
-
-          </script>
-
-
-
-

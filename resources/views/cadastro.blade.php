@@ -6,7 +6,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid px-4 px-lg-5">
           <a class="navbar-brand" href="#!">
-            <img src="/img/logo/DynamicFit.svg" alt="Logotipo" class="w-25 rounded-2">
+            <img src="/img/logo/Dynamic01.png" alt="Logotipo" class="w-25 rounded-2">
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -22,10 +22,6 @@
               <li class="nav-item">
                 <a class="nav-link" href="#"><h3>Contato</h3></a>
               </li>
-              <span>
-                <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='portugues' class="ativo">PT</a>
-                <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='english'>EN</a>
-              </span>
             </ul>
           </div>
         </div>

@@ -23,10 +23,6 @@
                       <li class="nav-item">
                         <a class="nav-link" href="#"><h3>Contato</h3></a>
               </li>
-              <span>
-                <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='portugues' class="ativo">PT</a>
-                <a class="navbar-link text-secondary fw-bold fs-2" href="#" language='english'>EN</a>
-              </span>
             </ul>
           </div>
         </div>

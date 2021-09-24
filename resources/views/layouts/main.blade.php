@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
         <link rel="stylesheet" href="/css/styles.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
         <script src="/js/scripts.js"></script>
 
     </head>
@@ -14,7 +15,14 @@
 
     <footer class="py-3 bg-dark">
     <div class="container">
-    <p class="m-0 text-center text-white">Copyright &copy; Dynamic Fit Website 2021</p></div>
+    <p class="m-0 text-center text-warning">Copyright &copy; Dynamic Fit Website 2021</p>
+    <div class="social-links">
+        <a href="#" class="text-warning me-2"><i class="fab fa-facebook-f"></i></a>
+        <a href="#" class="text-warning me-2"><i class="fab fa-instagram"></i></a>
+        <a href="#" class="text-warning me-2"><i class="fab fa-twitter"></i></a>
+        <a href="#" class="text-warning me-2"><i class="fab fa-whatsapp"></i></a>
+      </div>
+</div>
     </footer>
 
 

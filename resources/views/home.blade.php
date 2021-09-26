@@ -32,7 +32,6 @@
       </div>
     </div>
   </div>
-</header>
 </div>
 
   <div class="container-fluid">
@@ -145,7 +144,7 @@
     </div>
   </div>
             
-  <div class="container-fluid">
+  <div class="container m-3">
     <div class="row mt-2">
       <div class="col-12 col-md-8">
         <form>
@@ -161,7 +160,7 @@
         </form>
       </div>
       <div class="col-12 col-md-4">
-        <img src="/img/workout.jpg" class="w-100 mt-2 " height="300" alt="Imagem Exemplo">
+        <img src="/img/workout.jpg" class="w-100 rounded" height="300" alt="Imagem Exemplo">
       </div>
     </div>
   </div>

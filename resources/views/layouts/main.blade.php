@@ -14,7 +14,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid px-4 px-lg-6">
                     <a class="navbar-brand" href="/">
-                        <img src="/img/logo/DynamicFit.svg" alt="Logotipo" class="w-50 rounded-2">
+                        <img src="/img/logo/DynamicFit.svg" alt="Logotipo" class="w-50 rounded-2 img-fluid">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>

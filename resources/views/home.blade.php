@@ -89,10 +89,12 @@
       <div class="col-12 col-med-6 col-lg-4 d-flex align-items-stretch flex-wrap">
         <div class="card card-center" style="width: 18rem;">
           <img src="/img/cards/pilates.jpg" class="card-img-top img-fluid" alt="...">
-          <div class="card-body">
+          <div class="card-body d-flex align-items-strech flex-wrap">
             <h5 class="card-title">Pilates</h5>
             <p class="card-text">A aula mescla exercícios de flexibilidade e força a partir do trabalho da musculatura envolvendo nosso centro de gravidade e equilíbrio..</p>
-            <a href="#" class="btn btn btn-warning">Selecione</a>
+            <div class="d-flex align-items-end">
+              <a href="#" class="btn btn btn-warning">Selecione</a>
+            </div>
           </div>
         </div>
       </div>

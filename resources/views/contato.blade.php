@@ -29,7 +29,7 @@
         </form>
       </div>
       <div class="col-12 col-md-6">
-        <img src="/img/haltere5.jpg" class="w-100 mt-4"  alt="Imagem Exemplo">
+        <img src="/img/haltere5.jpg" class="w-100 mt-4 rounded"  alt="Imagem Exemplo">
       </div>
     </div>
   </div>

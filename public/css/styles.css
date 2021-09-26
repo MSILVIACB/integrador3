@@ -13,6 +13,11 @@ img {
 #navbar img {
     width: 50px;
 }
+body{
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+}
 footer {
     position: absolute;
     right: 0;

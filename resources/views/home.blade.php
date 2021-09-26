@@ -136,7 +136,7 @@
           <div class="card-body d-flex align-items-strech flex-wrap">
             <h5 class="card-title">Dynamic Boxe</h5>
             <p class="card-text">Aula de boxe-fitness que desenvolve o condicionamento físico pois trabalhacom vários grupos musculares através da técnica e exercícios de boxe.</p>
-            <div>
+            <div class="d-flex align-items-end">
               <a href="#" class="btn btn-warning">Selecione</a>
             </div>
           </div>

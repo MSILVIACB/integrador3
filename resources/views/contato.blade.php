@@ -8,22 +8,17 @@
       <div class="col-12 col-md-6">
         <form>
           <div class="mb-3">
-            <label for="exampleInputEmail1" class="form-label">Email </label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-            <div id="emailHelp" class="form-text">Nunca compartilharemos seu email.</div>
+            <label for="name" class="form-label">Nome</label>
+            <input type="text" class="form-control" id="name">
           </div>
           <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Senha</label>
-            <input type="password" class="form-control" id="exampleInputPassword1">
-          </div>
-          <div class="mb-3 form-check">
-            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-            <label class="form-check-label" for="exampleCheck1">Confirmar</label>
+            <label for="exampleInputEmail1" class="form-label">Email</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
           </div>
           <div class="mb-3">
             <label class="form-label" for="message"></label>
-            <textarea class="form-control" id="message" type="text" placeholder="Message" style="height: 10rem;" data-sb-validations="required"></textarea>
-            <div class="invalid-feedback" data-sb-feedback="message:required">Message is required.</div>
+            <textarea class="form-control" id="message" type="text" placeholder="Sua mensagem" style="height: 10rem;" data-sb-validations="required"></textarea>
+            <div class="invalid-feedback" data-sb-feedback="message:required">Digite sua mensagem antes de enviar.</div>
           </div>
           <button type="submit" class="btn btn-warning" style="width: 7rem;">Enviar</button>
         </form>

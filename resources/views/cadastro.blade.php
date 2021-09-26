@@ -4,7 +4,7 @@
 <body>
   <div class="container-fluid">
     <img src="/img/banners/banner0.jpg" class="img-fluid d-block w-100" alt="Banner">
-    <h1>Cadastro do Aluno</h1>
+    <h1 class="mt-3">Cadastro do Aluno</h1>
   </div>
 
   <form class="container row g-3 needs-validation" novalidate>
@@ -60,7 +60,7 @@
     <div class="col-12">
       <div class="form-check">
         <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
-        <label class="form-check-label" for="invalidCheck">Por favor, concorde com os termos e condições.</label>
+        <label class="form-check-label" for="invalidCheck">Por favor, concorde com os <a href="/termos-e-condicoes" target="_blank">termos e condições.</a></label>
         <div class="invalid-feedback">Por favor, concorde antes de enviar os dados.</div>
       </div>
     </div>

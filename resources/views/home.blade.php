@@ -24,6 +24,7 @@
       </div>
     </div>
   </div>
+
   <div class="bg-dark py-3">
     <div class="container px-4 px-lg-5 my-5">
       <div class="text-center text-white">
@@ -34,12 +35,65 @@
   </div>
 </div>
 
+<br>
+<div class="row bg-light">
+    <div class="container px-4 px-lg-5 my-5">
+      <div class="text-center text-dark">
+        <h2 class="display-4 fw-bolder">Blog</h2>
+       </div>
+    </div>
+
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body">
+        <img src="/img/saude.jpg " class="img-fluid" alt="card">
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+    <div class="card-body text-dark">
+          <h3 class="card-title">QUAL SERIA UM CAFÉ DA MANHÃ IDEAL?</h3>
+          <p class="card-text">Você está se alimentando adequadamente ao acordar? Tomar café da manhã com
+              os alimentos corretos pode ser muito vantajoso</p><p> e benéfico para exercer as atividades no dia a dia.</p>
+          <a href="#" class="btn btn-dark">Leia mais</a>
+        </div>
+      </div>
+
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row justify-content-center">
+         <div class="col-12 col-med-6 col-lg-4">
+          <img src="/img/estudo.jpg" class="card-img-top" alt="card">
+          <div class="card-body">
+            <h5 class="card-title">Como melhorar a concentração?</h5>
+            <p class="card-text">Quais os benefícios da atividade física para a mente? Físico e a mente alinhados são a chave para a longevidade. </p>
+            <a href="#" class="btn btn-dark">Leia mais</a>
+          </div>
+        </div>
+        <div class="col-12 col-med-6 col-lg-4">
+          <img src="/img/morning.jpg" class="card-img-top" alt="card">
+          <div class="card-body">
+            <h5 class="card-title">Aproveitar o dia</h5>
+            <p class="card-text">Acordar cedo pode ser o pontapé inicial para o bom aproveitamento da sua semana. É o que vai fazer a diferença.</p>
+            <a href="#" class="btn btn-dark">Leia mais</a>
+          </div>
+        </div>
+        <div class="col-12 col-med-6 col-lg-4">
+          <img src="/img/saude0.jpg" class="card-img-top" alt="card">
+          <div class="card-body">
+            <h5 class="card-title">Um cardápio para sua semana</h5>
+            <p class="card-text">Saiba como montar um super-cardápio fit para sua semana ser no mínimo perfeita! Temos aqui um cardápio super acessível.</p>
+            <a href="#" class="btn btn-dark">Leia mais</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
   <div class="container-fluid">
     <div class="row text-center mt-3">
       <h1>"Escolha sua modalidade preferida"</h1>
     </div>
   </div>
-    
+
 
   <div class="container px-4 px-lg-5 mt-5">
     <div class="row justify-content-center">
@@ -109,7 +163,7 @@
         </div>
       </div>
     </div>
-                               
+
     <div class="row justify-content-center d-flex align-items-stretch flex-wrap">
       <div class="col-12 col-med-6 col-lg-4">
         <div class="card card-center" style="width: 18rem;">
@@ -145,26 +199,7 @@
       </div>
     </div>
   </div>
-            
-  <div class="container m-3 mt-2">
-    <div class="row">
-      <div class="col-12 col-md-8">
-        <form>
-          <div class="col-auto w-auto col-12 col-md-8 mb-3">
-            <label for="exampleInputEmail1" class="form-label">Email</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-          </div>
-          <div class="mb-3 col-auto w-auto">
-            <label for="exampleInputPassword1" class="form-label">Senha</label>
-            <input type="password" class="form-control" id="exampleInputPassword1">
-          </div>
-          <button type="submit" class="btn btn-warning mb-2">Login</button>
-        </form>
-      </div>
-      <div class="col-12 col-md-4 d-none d-sm-block">
-        <img src="/img/workout.jpg" class="w-100 rounded" height="300" alt="Imagem Exemplo">
-      </div>
-    </div>
-  </div>
+
+
 </body>
 @endsection

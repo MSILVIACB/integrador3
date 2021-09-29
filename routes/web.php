@@ -23,4 +23,8 @@ Route::get('/modalidades', function () {
     return view('modalidades');
 });
 
+Route::get('/login', function () {
+    return view('login');
+});
+
 ?>

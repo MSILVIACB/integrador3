@@ -62,7 +62,7 @@
     <div class="container px-4 px-lg-5 mt-5">
         <div class="row justify-content-center">
          <div class="col-12 col-med-6 col-lg-4">
-          <img src="/img/estudo.jpg" class="card-img-top" alt="card">
+          <img src="/img/read1.jpg" class="card-img-top" alt="card">
           <div class="card-body">
             <h5 class="card-title">Como melhorar a concentração?</h5>
             <p class="card-text">Quais os benefícios da atividade física para a mente? Físico e a mente alinhados são a chave para a longevidade. </p>
@@ -70,7 +70,7 @@
           </div>
         </div>
         <div class="col-12 col-med-6 col-lg-4">
-          <img src="/img/morning.jpg" class="card-img-top" alt="card">
+          <img src="/img/arlivre.jpg" class="card-img-top" alt="card">
           <div class="card-body">
             <h5 class="card-title">Aproveitar o dia</h5>
             <p class="card-text">Acordar cedo pode ser o pontapé inicial para o bom aproveitamento da sua semana. É o que vai fazer a diferença.</p>
@@ -78,7 +78,7 @@
           </div>
         </div>
         <div class="col-12 col-med-6 col-lg-4">
-          <img src="/img/saude0.jpg" class="card-img-top" alt="card">
+          <img src="/img/cardapio.jpg" class="card-img-top" alt="card">
           <div class="card-body">
             <h5 class="card-title">Um cardápio para sua semana</h5>
             <p class="card-text">Saiba como montar um super-cardápio fit para sua semana ser no mínimo perfeita! Temos aqui um cardápio super acessível.</p>
@@ -88,6 +88,7 @@
       </div>
     </div>
     </div>
+
   <div class="container-fluid">
     <div class="row text-center mt-3">
       <h1>"Escolha sua modalidade preferida"</h1>

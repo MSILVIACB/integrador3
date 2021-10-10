@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class Contato extends Controller
+class ContatoController extends Controller
 
 {
     public function index (){

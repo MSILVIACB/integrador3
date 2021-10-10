@@ -7,7 +7,9 @@
     <h1 class="mt-3">Cadastro do Aluno</h1>
   </div>
 
-  <form class="container row g-3 needs-validation" novalidate>
+
+
+<form class="container row g-3 needs-validation" novalidate>
     <div class="col-md-4">
       <label for="validationCustom01" class="form-label">Nome</label>
       <input type="text" class="form-control" id="validationCustom01" required>
@@ -69,4 +71,7 @@
     </div>
   </form>
 </body>
+
+
+
 @endsection

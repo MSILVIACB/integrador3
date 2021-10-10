@@ -1,5 +1,7 @@
 @extends ('layouts.main')
 
+@section ('title', 'Dynamic Fit')
+
 @section ('content')
 <body>
     <div class="container-fluid text-center">
@@ -16,7 +18,7 @@
         </div>
     </div>
 
-  <section class="py-5">
+     <section class="py-5">
     <div class="container px-4 px-lg-5 mt-5">
       <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center d-flex align-items-strech flex-wrap">
         <div class="col mb-5">
@@ -54,20 +56,17 @@
       </div>
     </div>
 
-    <div class="container-fluid d-flex justify-content-center">
-      <select class="form-select-light form-select-lg  mb-3 bg-dark text-white" aria-label="">
-          <option selected>Lista das modalidades</option>
-          <option value="1">Musculação Feminina & Masculina</option>
-          <option value="2">Zumba</option>
-          <option value="3">Dynamic Combat</option>
-          <option value="4">Pilates</option>
-          <option value="5">Dynamic Jump</option>
-          <option value="6">Yoga</option>
-          <option value="7">Ritmos</option>
-          <option value="8">Dynamic Boxe</option>
-          <option value="9">Ballet</option>
-      </select>
-    </div>
+
   </section>
 </body>
+
 @endsection
+
+
+
+
+
+
+
+
+

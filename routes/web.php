@@ -19,7 +19,7 @@ Route::get('/contato', function () {
     return view('contato');
 });
 
-Route::get('/modalidades', function () {
+Route::get('/modalidade', function () {
     return view('modalidades');
 });
 

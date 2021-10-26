@@ -1,3 +1,11 @@
+@extends ('layouts.main')
+
+@section ('title', 'Dynamic Fit')
+
+@section ('content')
+
+
+
 <nav class='navbar navbar-expand-lg navbar-light'>
     <div class="collapse navbar-collapse" id="navbar">
     <a href="/" class="navbar-brand">
@@ -44,3 +52,5 @@
       <span class="visually-hidden">Next</span>
     </button>
   </div>
+  <div>
+@endsection

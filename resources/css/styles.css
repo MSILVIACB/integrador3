@@ -1,0 +1,19 @@
+* {
+    font-family: 'Barlow', sans-serif;
+    src: url('/fonts/Barlow/Barlow-Medium.tff');
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+img{
+    width: auto;
+    height: auto;
+}
+#navbar img {
+    width: 50px;
+}
+
+
+
+

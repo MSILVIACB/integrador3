@@ -8,7 +8,7 @@
         <div class="container px-4 px-lg-5 my-5">
           <div class="text-center text-white">
             <h2 class="display-4 fw-bolder">"Dica Dynamic"</h2>
-            <p class="lead fw-normal text-white-50 mb-0"><h3>' Estar bem com o corpo, mente e humor é tudo pra que o nosso dia a dia fique mais leve.'</h3></p>
+            <p class="lead fw-normal text-white-50 mb-0"><h3>' Estar de bem com o corpo, mente e humor é imprecindível para que o nosso dia a dia fique mais leve.'</h3></p>
           </div>
         </div>
       </div>

@@ -54,7 +54,7 @@
     <div class="card-body text-dark">
           <h3 class="card-title">QUAL SERIA UM CAFÉ DA MANHÃ IDEAL?</h3>
           <p class="card-text">Você está se alimentando adequadamente ao acordar? Tomar café da manhã com
-              os alimentos corretos pode ser muito vantajoso</p><p> e benéfico para exercer as atividades no dia a dia.</p>
+              os alimentos corretos pode ser muito vantajosoe benéfico para exercer as atividades no dia a dia.</p>
           <a href="#" class="btn btn-dark">Leia mais</a>
         </div>
       </div>
@@ -181,7 +181,7 @@
           <img src="/img/cards/ritmos.jpg" class="card-img-top img-fluid" alt="...">
           <div class="card-body">
             <h5 class="card-title">Ritmos</h5>
-            <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula. Trabalha a coordenação, reduzo estresse e a ansiedade.</p>
+            <p class="card-text">Aulas de dança fitness ao som de vários estilos musicais com coreografias criadas pelo professor da aula. Trabalha a coordenação, reduzindo o estresse e a ansiedade.</p>
             <a href="#" class="btn btn-warning">Selecione</a>
           </div>
         </div>

@@ -42,12 +42,12 @@
         @yield('content')
 
         <footer class="w-100 py-3 bg-dark d-flex justify-content-center flex-column">
-            <p class="m-0 text-center text-warning">Copyright &copy; Dynamic Fit Website 2021</p>
+            <p class="m-0 text-center text-white">Copyright &copy; Dynamic Fit Website 2021</p>
             <div class="social-links text-center mt-2">
-                <a href="#" class="text-warning me-2"><i class="fab fa-facebook-f"></i></a>
-                <a href="#" class="text-warning me-2"><i class="fab fa-instagram"></i></a>
-                <a href="#" class="text-warning me-2"><i class="fab fa-twitter"></i></a>
-                <a href="#" class="text-warning me-2"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-whatsapp"></i></a>
             </div>
         </footer>
 

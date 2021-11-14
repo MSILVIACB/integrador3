@@ -55,7 +55,7 @@
           <h3 class="card-title">QUAL SERIA UM CAFÉ DA MANHÃ IDEAL?</h3>
           <p class="card-text">Você está se alimentando adequadamente ao acordar? Tomar café da manhã com
               os alimentos corretos pode ser muito vantajosoe benéfico para exercer as atividades no dia a dia.</p>
-          <a href="#" class="btn btn-warning">Leia mais</a>
+          <a href="https://dynamicfit.000webhostapp.com/2021/11/qual-seria-um-cafe-da-manha-ideal" target="_blank" class="btn btn-warning">Leia mais</a>
         </div>
       </div>
 
@@ -66,7 +66,7 @@
           <div class="card-body">
             <h5 class="card-title">Como melhorar a concentração?</h5>
             <p class="card-text">Quais os benefícios da atividade física para a mente? Físico e a mente alinhados são a chave para a longevidade. </p>
-            <a href="#" class="btn btn-warning">Leia mais</a>
+            <a href="https://dynamicfit.000webhostapp.com/2021/11/como-melhorar-a-concentracao" target="_blank" class="btn btn-warning">Leia mais</a>
           </div>
         </div>
         <div class="col-12 col-med-6 col-lg-4">
@@ -74,7 +74,7 @@
           <div class="card-body">
             <h5 class="card-title">Aproveitar o dia</h5>
             <p class="card-text">Acordar cedo pode ser o pontapé inicial para o bom aproveitamento da sua semana. É o que vai fazer a diferença.</p>
-            <a href="#" class="btn btn-warning">Leia mais</a>
+            <a href="https://dynamicfit.000webhostapp.com/2021/11/aproveitar-o-dia" target="_blank" class="btn btn-warning">Leia mais</a>
           </div>
         </div>
         <div class="col-12 col-med-6 col-lg-4">
@@ -82,7 +82,7 @@
           <div class="card-body">
             <h5 class="card-title">Um cardápio para sua semana</h5>
             <p class="card-text">Saiba como montar um super-cardápio fit para sua semana ser no mínimo perfeita! Temos aqui um cardápio super acessível.</p>
-            <a href="#" class="btn btn-warning">Leia mais</a>
+            <a href="https://dynamicfit.000webhostapp.com/2021/11/um-cardapio-para-sua-semana" target="_blank" class="btn btn-warning">Leia mais</a>
           </div>
         </div>
       </div>

@@ -5,7 +5,8 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Cadastro extends Model
+class Aluno extends Model
 {
     use HasFactory;
+    protected $fillable = ['nome', 'usuario', 'email', 'senha', 'cidade', 'estado', 'cep'];
 }

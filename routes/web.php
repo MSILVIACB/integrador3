@@ -29,3 +29,4 @@ Route::get('/termos-e-condicoes', function () {
 Route::prefix('admin')->namespace('Admin')->group(function(){
     Route::resource('aluno', 'AlunoController');
 });
+?>

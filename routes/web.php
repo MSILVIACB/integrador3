@@ -26,10 +26,11 @@ Route::get('/termos-e-condicoes', function () {
     return view('termos-e-condicoes');
 });
 <<<<<<< HEAD
-?>
+
 =======
 
 Route::prefix('admin')->namespace('Admin')->group(function(){
     Route::resource('aluno', 'AlunoController');
 });
 >>>>>>> a01e142d046f1028455671be5de4c9a444f7a6bb
+?>

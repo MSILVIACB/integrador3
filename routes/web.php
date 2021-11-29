@@ -27,4 +27,7 @@ Route::get('/login', function () {
     return view('login');
 });
 
+Route::get('/termos-e-condicoes', function () {
+    return view('termos-e-condicoes');
+});
 ?>

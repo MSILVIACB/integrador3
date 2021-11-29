@@ -1,4 +1,4 @@
-* {
+*, html{
     font-family: 'Barlow', sans-serif;
     src: url('/fonts/Barlow/Barlow-Medium.tff');
     margin: 0;
@@ -6,25 +6,21 @@
     box-sizing: border-box;
     overflow-x: hidden;
 }
-img {
+
+img{
     width: auto;
     height: auto;
 }
-#navbar img {
+
+#navbar img{
     width: 50px;
 }
+
 body{
     position: relative;
     margin: 0;
-    padding-bottom: 6rem;
 }
-footer {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-}
+
 .card{
     margin-bottom: 15px;
 }

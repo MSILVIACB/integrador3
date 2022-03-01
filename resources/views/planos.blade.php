@@ -56,17 +56,7 @@
       </div>
     </div>
 
-
-  </section>
-</body>
+        </section>
+    </body>
 
 @endsection
-
-
-
-
-
-
-
-
-
